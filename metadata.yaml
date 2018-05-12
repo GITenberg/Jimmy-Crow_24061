@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26213'
     url: http://www.gutenberg.org/2009/agents/26213
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24061#Jimmy-Crow
 gutenberg_issued: '2007-12-28'
 gutenberg_type: Text
 identifiers:
